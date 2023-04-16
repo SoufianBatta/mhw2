@@ -19,3 +19,26 @@
 7. Giganti Rosse
 8. Big Bang
 9. Forme Di Vita
+----------
+## Quesito 2: QUALE DEI SEGUENTI COLORI TI PIACE DI PIU'
+----------
+1. BIANCO
+2. ROSA
+3. ROSSO
+4. ARANCIONE
+5. GIALLO
+6. VERDE
+7. BLU
+8. VIOLA
+9. NERO
+## Quesito 2: QUALE TIPO DI PASTA TI PIACE DI PIU'
+----------
+1. Pasta con la salsa
+2. Pasta al nero di seppia
+3. Pasta al pesto
+4. Pasta con panna
+5. Lasagne
+6. Pasta a forno
+7. Cannelloni
+8. Cavatelli
+9. Maccaroni

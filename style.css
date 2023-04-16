@@ -6,6 +6,11 @@
     margin: 5px;      
 }
 
+article h1 {
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: 260%;
+}
 .choice-grid div {
     width: 32.5%;
     box-sizing: border-box;
