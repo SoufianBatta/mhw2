@@ -43,8 +43,10 @@ function Check(event){
 
     const brother_answer = document.querySelectorAll('[data-question-id="'+data_question_id+'"]');
     for (const answers of brother_answer){
-        if(answer !== answers)
+        if(answer !== answers){
+        answers.classList.add('transparent');
         Uncheck(answers);
+        }
     }
     answer.classList.remove('transparent');
     CheckAnswers();
@@ -56,7 +58,6 @@ function Uncheck(element){
     image.classList.add('checkbox');
     element.removeChild(element.querySelector('.checkbox'));
     element.appendChild(image);
-    element.classList.add('transparent');
 }
 
 function WriteResult(){
