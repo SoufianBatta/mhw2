@@ -27,3 +27,26 @@ article h1 {
 .transparent {
     opacity: 60%;
 }
+
+@media ( max-width : 700px){
+
+    article {
+        width: 95%;
+    }
+
+    header div span {
+        background-color: transparent;
+    }
+
+    .question-name h1 {
+        font-size: 230%
+    }
+}
+
+@media ( max-width : 500px) {
+
+    .choice-grid div {
+        width: 49%;
+    }
+
+}
