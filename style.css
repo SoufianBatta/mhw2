@@ -28,6 +28,40 @@ article h1 {
     opacity: 60%;
 }
 
+footer {
+    position: relative;
+    top: 40px;
+    bottom: 20px;
+}
+footer div{
+    width: 100%;
+    padding: 20px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: space-around;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer div h1{
+    margin: 0px;
+}
+footer div span {
+    margin-top: 18px;
+    margin-bottom: 18px;;
+}
+footer div button {
+    width: 50%;
+    height: 50px;
+    background-color: #cecece;
+    font-size: large;
+}
+
+button:hover {
+    background-color: #e0e0e0
+}
+
 @media ( max-width : 700px){
 
     article {
